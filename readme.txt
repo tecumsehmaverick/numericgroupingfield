@@ -1,7 +1,7 @@
 Field: Numeric Grouping
 -------------------------------------------------------------------------------
 
-Version: 1.002
+Version: 1.0.2
 Author: Rowan Lewis <rowan@pixelcarnage.com>
 Build Date: 20 March 2009
 Requirements: Symphony 2

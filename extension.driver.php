@@ -8,7 +8,7 @@
 		public function about() {
 			return array(
 				'name'			=> 'Field: Numeric Grouping',
-				'version'		=> '1.002',
+				'version'		=> '1.0.2',
 				'release-date'	=> '2009-03-30',
 				'author'		=> array(
 					'name'			=> 'Rowan Lewis',
