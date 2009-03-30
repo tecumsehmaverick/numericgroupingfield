@@ -1,9 +1,9 @@
 Field: Numeric Grouping
 -------------------------------------------------------------------------------
 
-Version: 1.001
+Version: 1.002
 Author: Rowan Lewis <rowan@pixelcarnage.com>
-Build Date: 07 January 2009
+Build Date: 20 March 2009
 Requirements: Symphony 2
 
 

@@ -1,8 +1,5 @@
 <?php
 	
-	require_once(TOOLKIT . '/class.field.php');
-	require_once(TOOLKIT . '/fields/field.upload.php');
-	
 	class Extension_NumericGroupingField extends Extension {
 	/*-------------------------------------------------------------------------
 		Definition:
@@ -11,8 +8,8 @@
 		public function about() {
 			return array(
 				'name'			=> 'Field: Numeric Grouping',
-				'version'		=> '1.001',
-				'release-date'	=> '2009-01-09',
+				'version'		=> '1.002',
+				'release-date'	=> '2009-03-30',
 				'author'		=> array(
 					'name'			=> 'Rowan Lewis',
 					'website'		=> 'http://pixelcarnage.com/',
